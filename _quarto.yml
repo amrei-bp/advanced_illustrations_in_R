@@ -29,7 +29,7 @@ format:
     code-summary: "Click here to show the code"
     code-tools: true
     theme: 
-      - spacelab
+      - solar
     self-contained: true
     page-layout: full
     toc: true
