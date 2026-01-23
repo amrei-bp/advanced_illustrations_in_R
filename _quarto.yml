@@ -4,6 +4,7 @@ project:
 website:
   title: "Advanced Illustration Options"
   sidebar:
+    background: primary
     style: "docked"
     search: true
     contents:
@@ -22,8 +23,7 @@ format:
     code-summary: "Click here to show the code"
     code-tools: true
     theme: 
-      - cosmo
-      - test.scss
+      - yeti
     self-contained: true
     page-layout: full
     toc: true
