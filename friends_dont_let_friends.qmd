@@ -1,5 +1,6 @@
 ---
-title: "Link: Friends Don't Let Friends Make Bad Graphs"
+title: "Link: Friends Don't Let Friends"
+subtitle: "Make Bad Graphs"
 ---
 
 [Awesome repository](https://github.com/cxli233/FriendsDontLetFriends), with many good tips on how to visualize different types of data (and how not to). 
