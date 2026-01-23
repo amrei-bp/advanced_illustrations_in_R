@@ -1,3 +1,7 @@
+---
+title: "Interactive maps: `leaflet` in R"
+---
+
 With the [leaflet package](https://r-graph-gallery.com/package/leaflet.html), it is relatively easy to include an interactive map into a quarto document. 
 
 ```{r package_load, message=FALSE}

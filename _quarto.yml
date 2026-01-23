@@ -2,25 +2,18 @@ project:
   type: website
 
 website:
-  title: "Advanced illustration options"
+  title: "Advanced Illustration Options"
   sidebar:
     style: "docked"
     search: true
     contents:
       - text: "How to contribute"
         href: index.qmd
-      - section: "pngs in plots"
-        contents:
-          - images_in_R_plots.qmd
-      - section: "maps in quarto"
-        contents:
-          - quarto_maps.qmd  
-      - section: "interactive graphs"
-        contents: 
-          - interactive_graphs.qmd
-      - section: "genome visualization"
-        contents:
-          - genome_visualization.qmd
+      - images_in_R_plots.qmd
+      - quarto_maps.qmd  
+      - interactive_graphs.qmd
+      - genome_visualization.qmd
+      - friends_dont_let_friends.qmd
         
 
 format: 
@@ -29,7 +22,8 @@ format:
     code-summary: "Click here to show the code"
     code-tools: true
     theme: 
-      - solar
+      - cosmo
+      - test.scss
     self-contained: true
     page-layout: full
     toc: true

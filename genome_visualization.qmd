@@ -1,4 +1,5 @@
-
-# Awesome genome visialization
+---
+title: "Link: Genome visualization"
+---
 
 And [here](https://cmdcolin.github.io/awesome-genome-visualization/?language=R&latest=true) you can find some resources on how to visualize your genome data with R (and other languages). 

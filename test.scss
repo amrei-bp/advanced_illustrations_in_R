@@ -1,0 +1,19 @@
+/*-- scss:rules --*/
+.navbar {
+    background-color: $primary;
+  }
+
+
+a {
+    color: $warning;
+    text-decoration: none;
+  
+    &:hover {
+      color: darken($warning, 10%);
+      text-decoration: underline;
+    }
+  }
+
+  code {
+    color: $primary;  /* Text color */
+  }

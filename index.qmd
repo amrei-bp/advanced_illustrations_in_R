@@ -1,6 +1,6 @@
-
-# Advanced plots in R
-
+---
+title: "Advanced plots in R"
+---
 In the following we give you some more options on how to make your plots even nicer. 
 
 You are invited to add your own chapters, if you have tips and tricks for your fellow students - this will also train your git!
